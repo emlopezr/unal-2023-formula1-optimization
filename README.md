@@ -5,10 +5,10 @@
 - **Semestre:** 2023-1
 
 ## Equipo de trabajo
-- Emmanuel López Rodríguez - [emlopezr@unal.edu.co](mailto:emlopezr@unal.edu.co)
-- Andrés Felipe Aparicio Mestre - [anapariciom@unal.edu.co](mailto:anapariciom@unal.edu.co)
-- Maria Paula Duque Muñoz - [maduquem@unal.edu.co](mailto:maduquem@unal.edu.co)
-- Johan Madroñero Cuervo - [jmadronero@unal.edu.co](mailto:jmadronero@unal.edu.co)
+- Emmanuel López Rodríguez
+- Andrés Felipe Aparicio Mestre
+- Maria Paula Duque Muñoz
+- Johan Madroñero Cuervo
 
 ## Código e informe
 Se puede encontrar el código de Python en el archivo [Formula1_Optimization.ipynb](https://github.com/lopezemmanuel/Formula1_Optimization/blob/main/Formula1_Optimization.ipynb). A su vez, se puede encontrar el informe académico detallado del proyecto en el archivo [Formula1_Optimization.pdf](https://github.com/lopezemmanuel/Formula1_Optimization/blob/main/Formula1_Optimization.pdf)
